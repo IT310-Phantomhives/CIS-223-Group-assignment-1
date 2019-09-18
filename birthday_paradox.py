@@ -1,3 +1,6 @@
+#Jai Behl
+#13365851
+#IT-310
 import random
 people=5;
 birth_day=list(range(1,365));
